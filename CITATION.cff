@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this resource, please cite it as below."
+authors:
+- family-names: Lai
+  given-names: Hao Ran
+  orcid: https://orcid.org/0000-0001-6871-0146
+- family-names: Hill
+  given-names: Tim
+- family-names: Stivanello 
+  given-names: Silvio
+- family-names: Chapman
+  given-names: Hazel M.
+title: Data and code from: Changes in quantity and timing of foliar and reproductive phenology of tropical dry-forest trees under a warming and drying climate. Journal of Ecology.
+version: 1.0.0
+date-released: 2025-03-14
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15022471
+
